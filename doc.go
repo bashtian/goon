@@ -135,4 +135,4 @@ provide reasonable defaults for most applications.
 
 See: http://talks.golang.org/2013/highperf.slide#23
 */
-package goon
+package goon // import "gopkg.in/bashtian/goon.v1"
